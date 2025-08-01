@@ -1,2 +1,1 @@
-# Quranbot-
-Far QuranVoice1Bot 
+python-3.9.13
